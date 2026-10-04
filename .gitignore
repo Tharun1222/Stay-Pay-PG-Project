@@ -1,0 +1,17 @@
+# React
+node_modules/
+dist/
+.env
+.env.*
+
+# Spring Boot / Maven
+target/
+*.log
+
+# IDE files
+.idea/
+.vscode/
+*.iml
+
+# Local secrets
+application-local.properties
